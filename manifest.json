@@ -2,5 +2,32 @@
     "name": "SKILLHUB",
     "start_url": "/PWA",
     "background_color": "#379df1",
-    "theme_color": "#379df1"
+    "theme_color": "#379df1",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./assets/images/SKILLHUB-48-48.png",
+            "size": "48x48"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-72-72.png",
+            "size": "72x72"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-96-96.png",
+            "size": "96x96"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-144-144.png",
+            "size": "144x144"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-192-192.png",
+            "size": "192x192"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-512-512.png",
+            "size": "512x512"
+        }
+    ]
 }
