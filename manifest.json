@@ -7,19 +7,19 @@
     "icons": [
         {
             "src": "./assets/images/SKILLHUB-48-48.png",
-            "size": "48x48"
+            "sizes": "48x48"
         },
         {
             "src": "./assets/images/SKILLHUB-72-72.png",
-            "size": "72x72"
+            "sizes": "72x72"
         },
         {
             "src": "./assets/images/SKILLHUB-96-96.png",
-            "size": "96x96"
+            "sizes": "96x96"
         },
         {
             "src": "./assets/images/SKILLHUB-144-144.png",
-            "size": "144x144"
+            "sizes": "144x144"
         },
         {
             "src": "./assets/images/SKILLHUB-192-192.png",
