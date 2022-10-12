@@ -6,23 +6,23 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "./assets/images/SKILLHUB-48-48.png",
+            "src": "./PWA/assets/images/SKILLHUB-48-48.png",
             "sizes": "48x48"
         },
         {
-            "src": "./assets/images/SKILLHUB-72-72.png",
+            "src": "./PWA/assets/images/SKILLHUB-72-72.png",
             "sizes": "72x72"
         },
         {
-            "src": "./assets/images/SKILLHUB-96-96.png",
+            "src": "./PWA/assets/images/SKILLHUB-96-96.png",
             "sizes": "96x96"
         },
         {
-            "src": "./assets/images/SKILLHUB-144-144.png",
+            "src": "./PWA/assets/images/SKILLHUB-144-144.png",
             "sizes": "144x144"
         },
         {
-            "src": "./assets/images/SKILLHUB-192-192.png",
+            "src": "./PWA/assets/images/SKILLHUB-192-192.png",
             "size": "192x192"
         },
         {
